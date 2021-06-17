@@ -18,7 +18,7 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
 |July 12 | Non-financial Reporting | Giovanna Michelon (Bristol) |
 
-To register for the course, please fill out the following form: https://forms.gle/dwE8asuRksaRPRpc6. The deadline for enrollment is April 19.
+The registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
 
 
 ### Unit Slides and Videos
@@ -31,6 +31,26 @@ These are the slides and the videos linked to each unit.
 ||How to Find and Read Research|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element01.pdf)|[Video](https://youtu.be/jpixYIGLxfM)|
 ||Principles of Open Science|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element02.pdf)|[Video](https://youtu.be/4L7FQPU_6Jg)|
 ||The Corporate Reporting Framework|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element03.pdf)|[Video](https://youtu.be/ldH9EyhfUUo)|
+||Discussion Session with Christian Leuz|[Slides (Moodle)](https://moodle.hu-berlin.de/course/view.php?id=104133)|[Video](https://youtu.be/JukAbbR-Mb0)|
+|Disclosure Theory|Why Theory?|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element04.pdf)|[Video](https://youtu.be/2Eqa-77VYRs)|
+||Unraveling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element05.pdf)|[Video](https://youtu.be/-NwcW-mn9k4)|
+||Cheap Talk|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element06.pdf)|[Video](https://youtu.be/C_4hZvmyFxM)|
+||Signaling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element07.pdf)|[Video](https://youtu.be/kRiNA4XwOCk)|
+||Discussion Session with Alfred Wagenhofer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_wagenhofer.pdf)|[Video](https://youtu.be/pQpdO2SCnmc)|
+|Voluntary versus Regulated Disclosure|Rationales for Regulation|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element08.pdf)|[Video](https://youtu.be/aACoTBZ6OY8)|
+||Optimal Accounting Standards|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element09.pdf)|[Video](https://youtu.be/FT6o8jZlJNw)|
+||Biased Reporting|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element10.pdf)|[Video](https://youtu.be/srfh75LSZoY)|
+||Discussion Session with Anne Beyer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_beyer.pdf)|[Video](https://youtu.be/6vcRe-DBJpU)|
+|Transparency and Market Efficiency|Market Efficiency|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element11.pdf)|[Video](https://youtu.be/sBTyuDH3-R4)|
+||On The Impossibility of Informationally Efficient Markets|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element12.pdf)|[Video](https://youtu.be/sR0gbAA3pZs)|
+||Information Asymmetry|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element13.pdf)|[Video](https://youtu.be/59w4G6CuIF0)|
+||Discussion Session with David Veenman|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_veenman.pdf)|[Video](https://youtu.be/mn_IBro8oOw)|
+|Disclosure Channels|Disclosure Processing Costs|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element14.pdf)|[Video](https://youtu.be/_UMuzTVsIA8)|
+||Financial Reporting and Data Aggregators|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element15.pdf)|[Video](https://youtu.be/XxlmumEDPcE)|
+||Financial Analysts|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element16.pdf)|[Video](https://youtu.be/WV2rMhW59Sk)|
+||The Media as an Information Intermediary|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element17.pdf)|[Video](https://youtu.be/EGmceKgslqI)|
+
+[YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
 Additional videos will be added as we move through the course. The discussion sessions with guests are scheduled as live events but might become available 'canned' later, depending on participant consent.
 
@@ -40,6 +60,15 @@ Additional videos will be added as we move through the course. The discussion se
 | Unit | Reference |
 |:-----|:----------|
 |Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
+|Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 3.1.|
+||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://raw.githubusercontent.com/trr266/rescorptrans/main/add_materials/schantl_wagenhofer_2021.pdf), Introduction and skim.|
+|Voluntary versus Regulated Disclosure|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 4.1.|
+||Anne Beyer and Kevin C. Smith (2021): Learning about Risk-Factor Exposures from Earnings: Implications for Asset Pricing and Manipulation, [JAE forthcoming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800379), Introduction and skim.|
+|Transparency and Market Efficiency|Maureen O'Hara (2003): Presidential Address: Liquidity and Price Discovery, Journal of Finance, 58:4, 1335--1354, https://doi.org/10.1111/1540-6261.00569.|
+||Karthik Balakrishnan, Mary Billings, Brian Kelly, and Alexander Ljungqvist (2014): Shaping Liquidity: On the Causal Effects of Voluntary Disclosure, Journal of Finance, 69:5, 2237--2278, https://doi.org/10.1111/jofi.12180, Introduction and skim.|
+||Edith Leung and David Veenman (2019): Non-GAAP Earnings Disclosure in Loss Firms, Journal of Accounting Research, 56:4, 1083--1137, https://doi.org/10.1111/1475-679X.12216, Introduction and skim.|
+|Disclosure Channels|Elizabeth Blankespoor, Ed deHaan, Ivan Marinovic (2020): Disclosure processing costs, investors’ information choice, and equity market outcomes: A review, Journal of Accounting Economics, 70:2-3, 1--46, https://doi.org/10.1016/j.jacceco.2020.101344, Sections 1,2 and 5.|
+||Elizabeth Blankespoor, Bradley Hendricks and Gregory Miller (2021): The Pitch: Managers’ Disclosure Choice During IPO Roadshows, http://dx.doi.org/10.2139/ssrn.3545716, Introduction and skim.|
 
 
 ### Assignments
@@ -47,8 +76,11 @@ Additional videos will be added as we move through the course. The discussion se
 | Assignment | Title | Link | Due date |
 |:-----|:------|:---:|:---:|
 |1|Reproduce and Extend Our 'Analysis'|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment1.pdf)|May, 10th|
+|2|Build on Theory|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment2.pdf)|May, 24th|
+|3|Cross-sectional Variation in ERCs|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment3.pdf)|June 28th|
+|4|Determinants of Analyst Following|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment4.pdf)|July 12th|
 
-Assignments will only be reviewed and graded when you successfully registered for taking credits. Students that are eligible to take credits will be informed by April 20th.
+Assignments will only be reviewed and graded when you successfully registered for taking credits.
 
 
 ### Questions, remarks, feedback?
